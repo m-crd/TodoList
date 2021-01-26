@@ -1,1 +1,8 @@
 /* Other rules */
+.done {
+  text-decoration: line-through;
+}
+
+/* h2 {
+  color: blue;
+} */
